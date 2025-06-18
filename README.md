@@ -18,7 +18,7 @@
 ### Frontend
 - React + TypeScript
 - TailwindCSS
-- Markdown rendering (e.g., `react-markdown`)
+- Markdown rendering 
 
 ### Backend
 - Node.js + Express.js
@@ -29,13 +29,3 @@
 - Frontend: Vercel
 - Backend: Railway
 - Database: PostgreSQL (Railway-hosted)
-
----
-
-## 🧑‍💻 Getting Started (Development)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/devlog.git
-cd devlog
